@@ -10,7 +10,7 @@ Original file is located at
 import torch
 import torch.nn as nn
 import torch.optim as optim
-import torchvision.datasets as datasetsc
+import torchvision.datasets as datasets
 import torchvision.transforms as transforms
 import matplotlib.pyplot as plt
 
